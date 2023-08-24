@@ -104,7 +104,7 @@ fun TaskCategoryItem(
                 Text(
                     text = "$count tasks",
                     style = MaterialTheme.typography.bodyLarge.copy(
-                        color = Color.Gray
+                        color = Color.Black
                     )
                 )
             }
